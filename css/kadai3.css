@@ -1,0 +1,28 @@
+body{
+    background-image : url(../images/04.jpg);
+    background-attachment : fixed;
+}
+
+
+h1{
+    color : white ;
+    background-color : black ;
+    text-align : center ;
+}
+
+
+h2{
+    color : black ;
+    background-color : paleturquoise;
+    text-align : center ;
+}
+
+
+h3{
+    color : blue ;
+}
+
+
+p{
+    color : dimgray;
+}
