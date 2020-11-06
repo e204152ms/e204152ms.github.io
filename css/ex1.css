@@ -1,0 +1,26 @@
+body{
+    background-image : url(../images/04.jpg);
+    background-attachment : fixed;
+}
+
+
+h1{
+    color : white ;
+    background-color : aqua ;
+    text-align : center ;
+}
+
+
+h2{
+    color : black ;
+    background-color : paleturquoise ;
+    text-align : center ;
+}
+
+table{
+    background-color : beige ;
+}
+
+ol{
+    background-image : url(../images/07.jpg);
+}
