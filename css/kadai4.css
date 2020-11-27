@@ -1,0 +1,29 @@
+h1.pagetop{
+    text-align : center;
+    color : white;
+    background-color : black;
+}
+
+h1.link{
+    text-align : center;
+    color : black;
+    background-color : white;
+}
+
+
+h2.a{
+    text-align : center;
+    color : white;
+    background-color : red;
+}
+
+h2.b{
+    text-align : center;
+    color : pink;
+    background-color : aqua;
+}
+
+
+body{
+    background-image : url(../images/04.jpg);
+}
