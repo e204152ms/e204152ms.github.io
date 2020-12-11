@@ -1,7 +1,10 @@
 div.title{
+    display:inline-block;
+    vertical-align:top;
     width:990px;
     height:30px;
     border:5px solid black;
+    font-size:0px;
 }
 
 div.menu{
@@ -11,31 +14,42 @@ div.menu{
     font-size:0px;
 }
 
-span.menuitem{
+div.menu1{
     display:inline-block;
     vertical-align:top;
+}
+
+div.menu2{
+    display:inline-block;
+    vertical-align: top;
+}
+
+div.menuitem{
     width:240px;
     height:90px;
     border:5px solid red;
     margin-top:10px;
     margin-right:50px;
+    font-size:0px;
 }
 
-span.menuimage{
+div.menuimage{
     display:inline-block;
     vertical-align:top;
     width:690px;
     height:290px;
     border:5px solid blue;
     margin-top:10px;
+    font-size:0;
 }
 
-span.menutext{
+div.menutext{
     display:inline-block;
     vertical-align:top;
     width:690px;
     height:10px;
     border:5px solid green;
+    font-size:0;
 }
 
 div.footer{
@@ -45,4 +59,5 @@ div.footer{
     height:30px;
     border:5px solid black;
     margin-top:20px;
+    font-size:0px;
 }
