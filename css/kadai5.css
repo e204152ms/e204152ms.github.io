@@ -1,0 +1,48 @@
+div.title{
+    width:990px;
+    height:30px;
+    border:5px solid black;
+}
+
+div.menu{
+    display:inline-block;
+    vertical-align:top;
+    margin-top:10px;
+    font-size:0px;
+}
+
+span.menuitem{
+    display:inline-block;
+    vertical-align:top;
+    width:240px;
+    height:90px;
+    border:5px solid red;
+    margin-top:10px;
+    margin-right:50px;
+}
+
+span.menuimage{
+    display:inline-block;
+    vertical-align:top;
+    width:690px;
+    height:290px;
+    border:5px solid blue;
+    margin-top:10px;
+}
+
+span.menutext{
+    display:inline-block;
+    vertical-align:top;
+    width:690px;
+    height:10px;
+    border:5px solid green;
+}
+
+div.footer{
+    display:inline-block;
+    vertical-align:top;
+    width:990px;
+    height:30px;
+    border:5px solid black;
+    margin-top:20px;
+}
