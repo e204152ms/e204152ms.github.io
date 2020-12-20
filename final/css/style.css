@@ -1,11 +1,11 @@
 html{
-    width:1300px;
+    width:1080px;
     height:840px;
 }
 
 body{
     background-image:url(../images/background.jpg);
-    background-size:1300px;
+    background-size:1370px;
     background-repeat:no-repeat;
 }
 
