@@ -1,10 +1,11 @@
 html{
+    width:1300px;
     height:840px;
 }
 
 body{
     background-image:url(../images/background.jpg);
-    background-size:cover;
+    background-size:1300px;
     background-repeat:no-repeat;
 }
 
@@ -33,7 +34,7 @@ a{
 }
 
 .Quotations{
-    position:absolute;top:300px;left:100px;
+    position:absolute;top:330px;left:100px;
     font-size:20px;
     font-weight:bold;
     font-family: serif;
@@ -41,7 +42,7 @@ a{
 }
 
 .people{
-    position:absolute;top:355px;left:450px;
+    position:absolute;top:385px;left:450px;
     font-size:17px;
     font-family: serif;
     white-space: nowrap;
