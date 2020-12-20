@@ -1,47 +1,47 @@
 html{
-    width:1024px;
     height:840px;
 }
 
 body{
     background-image:url(../images/background.jpg);
     background-size:cover;
+    background-repeat:no-repeat;
 }
 
 div.menubar{
-    width:250px;
-    height:340px;
+    width:180px;
+    height:225px;
     background:rgba(255,255,255,0.5);
     border-radius: 15px 15px 15px 15px;
 }
 
 div.title{
     font-family:serif;
-    font-size:50px;
+    font-size:35px;
     font-weight: bold;
     text-align: center;
 }
 
 div.menuitem{
     text-align: center;
-    width:250px;
+    width:180px;
 }
 
 a{
-    font-size:25x;
     color:black;
     font-family:serif; 
 }
 
 .Quotations{
-    position:absolute;top:300px;left:300px;
-    font-size:17px;
+    position:absolute;top:300px;left:100px;
+    font-size:20px;
+    font-weight:bold;
     font-family: serif;
     white-space: nowrap;
 }
 
 .people{
-    position:absolute;top:330px;left:600px;
+    position:absolute;top:355px;left:450px;
     font-size:17px;
     font-family: serif;
     white-space: nowrap;
